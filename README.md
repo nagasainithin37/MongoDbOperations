@@ -1,4 +1,4 @@
-# MongoDb Operations
+# MongoDb Operations (CRUD)
 
 ## To check all databases
 
